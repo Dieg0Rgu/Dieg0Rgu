@@ -7,7 +7,7 @@ Iḿ passionate about music and sports, like pro wrestling and football. I like 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on learning Python
+- 🔭 I’m currently working on learning any language. (now HTML+CSS)
 - 🌱 I’m currently learning about Tech Software development in Riwi and practice exercises from here.
 - 👯 I’m looking to collaborate on any project that that I can do with my colleagues from Riwi and outsiders 
 - 🤔 I’m looking for help with writing code, learning about the world of software and programming, and doubts.
