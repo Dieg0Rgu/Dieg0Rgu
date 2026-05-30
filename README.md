@@ -3,7 +3,7 @@
 
 
 
-Iḿ passionate about music and sports, like pro wrestling and football. I like meeting new friends and researching on the computer. I love my family, especially my beautiful mother. This is going to be a new adventure for me. 
+I'm passionate about music and sports, like pro wrestling and football. I like meeting new friends and researching on the computer. I love my family, especially my beautiful mother. This is going to be a new adventure for me. Changing my username for aspiring professional growth opportunities for my futre.
 
 Here are some ideas to get you started:
 
