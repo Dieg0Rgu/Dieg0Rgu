@@ -1,5 +1,5 @@
 ##  👋 Hi there I'm Diego Rodriguez 
-## HELLO WORLD CoderKing is here ("New coder on tech software").
+## HELLO WORLD ("New coder on tech software").
 
 
 
@@ -8,6 +8,7 @@ I'm passionate about music and sports, like pro wrestling and football. I like m
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on learning any language.  (HTML+CSS) (Now, I'm learning difficult JS")
+  *I have sessions about database, and starting final steps on Basic Route in Riwi Barranquilla.
 - 🌱 I’m currently learning about Tech Software development in Riwi and practice exercises from here.
 - 👯 I’m looking to collaborate on any project that that I can do with my colleagues from Riwi and outsiders 
 - 🤔 I’m looking for help with writing code, learning about the world of software and programming, and doubts.
