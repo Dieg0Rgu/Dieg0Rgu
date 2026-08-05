@@ -5,6 +5,9 @@
 
 I'm passionate about music and sports, like pro wrestling and football. I like meeting new friends and researching on the computer. I love my family, especially my beautiful mother. This is going to be a new adventure for me. Changing my username for aspiring professional growth opportunities for my futre.
 
+In this second semester, I am a coder in the advanced route Automatization AI for devs 🤖 
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on learning any language.  (HTML+CSS) (Now, I'm learning difficult JS")
